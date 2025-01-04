@@ -13,6 +13,10 @@ public class Runner {
         //versiyon7
         System.out.println("yeni değişiklik yaptım");
 
+        //versiyon8 - Github değişiklik
+        System.out.println("yeni değişiklik yaptım");
+
+
 
     }
 }
